@@ -190,7 +190,7 @@ focusColor WINDOW_FOCUSCOLOR// vim:ft=menu
             textscale .416
             textalign ALIGN_RIGHT
             forecolor 1 1 1 1
-            visible MENU_FALSE
+            visible MENU_TRUE
             action
             {
                 play "sound/misc/menu1.wav";
