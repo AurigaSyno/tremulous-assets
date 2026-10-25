@@ -182,7 +182,7 @@
       action
       {
         play "sound/misc/menu1.wav";
-        uiScript quit
+        open quitCredit
       }
     }
 

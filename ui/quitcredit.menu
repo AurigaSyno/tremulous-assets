@@ -46,6 +46,7 @@
       border WINDOW_BORDER_FULL
       borderSize 1.5
       borderColor 1 0 0 1
+      decoration
     }
 
     itemDef
@@ -59,6 +60,7 @@
       border WINDOW_BORDER_FULL
       borderSize 1.5
       borderColor 1 0 0 1
+      decoration
     }
 
     itemDef
